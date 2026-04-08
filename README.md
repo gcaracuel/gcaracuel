@@ -1,4 +1,6 @@
 ```
+~$ netcvfetch
+
          @@@%%%%%%%%%@@               gcaracuel@github
          @@@%%%%%%%%%#######%@@       ================
        @@@@%%%%%%%######?######%@     Title: DevOps Engineer / SRE
@@ -16,4 +18,5 @@
   @???;;?+;;;+ ;:;;......;;;#@        loopback: https://github.com/gcaracuel
   %##?++?+++;+ ??% @%%@@@@            eth0: https://www.linkedin.com/in/gcaracuel/
   @_:?_:+_:_:#%                       eth1: null
+
 ```
